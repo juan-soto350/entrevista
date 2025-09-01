@@ -14,7 +14,7 @@
 
 
 #### **2.3 Mapa mental**
-![alt text](<NotebookLM Mind Map.png>)
+![Texto alternativo](<NotebookLM Mind Map.png>)
 
 
 #### **2.4 Documento informativo:**
@@ -360,3 +360,4 @@ El enfoque central de la expansión estará consolidado en el trabajo del área 
 
 - **Personal Clave (Mencionado):**  
   Bio: Empleados esenciales que serán contratados específicamente para asegurar el éxito de la operación en Costa Rica dentro del cronograma establecido.
+
